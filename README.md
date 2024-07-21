@@ -53,6 +53,8 @@ Follow the instructions in the Streamlit app to generate your visual novel. Once
 
 **5. Open the Visual Novel:**
 
+![VisualNovelExample](https://github.com/AspiringPianist/WebTales/blob/master/nice.png?raw=true)
+
 Important: After generation, you'll need to manually open the generated index.html file to view the visual novel. This file will typically be located in the same directory as your start.py file.
 
 Open a file explorer and navigate to the project directory (repository in our example). Locate the index.html file and double-click it to open it in your web browser. This will display the generated visual novel.
