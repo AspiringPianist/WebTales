@@ -5,6 +5,7 @@
 ## How to Run
 
 This project uses Streamlit to create a visual novel. To run it, follow these steps:
+As of now, this uses our API Key, we will change the API key , requirement so that you have to use your own together API key. (Paste it in the api.py script)
 
 **1. Prerequisites:**
 
