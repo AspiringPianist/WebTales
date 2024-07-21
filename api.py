@@ -12,7 +12,7 @@ import io
 # Create client
 client = openai.OpenAI(
     base_url="https://api.together.xyz/v1",
-    api_key="fb5107bddcd0f7f144ca41251d77bbb59f9f5f64cb21435473f15a2801d28d73",
+    api_key="fb5107bddcd0f7f144ca41251d77bbb59f9f5f64cb21435473f15a2801d28d73", # PASTE YOUR OWN API KEY HERE, THIS WILL BE REMOVED LATER
 )
 
 music_paths = '''["./music/sad.mp3", "./music/uplifting.mp3", "./music/epic.mp3", "./music/motivation.mp3", "./music/neutral.mp3", "./music/happy.mp3", "./music/funny.mp3", "./music/dank.mp3", "./music/comfy.mp3"]'''
