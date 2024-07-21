@@ -1,5 +1,7 @@
 # WebTales
 
+![WebTales Logo](https://github.com/AspiringPianist/WebTales/blob/master/webtales.jpg?raw=true)
+
 *An AI- powered visual novel generator that crafts your prompts into a fully-fledged visual novel with soundtracks, character images, backgroud images and captivating dialogue and narration. All within a matter of a few minutes. Use it to create advertisement, short sketches, japanese style visual novels, anime theories, etc. Your imagination is the limit!* (Video Demos in the presentation pdf)
 
 ## How to Run
