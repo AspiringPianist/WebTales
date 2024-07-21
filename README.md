@@ -12,7 +12,7 @@ This project uses Streamlit to create a visual novel. To run it, follow these st
   - Install the required libraries by running the following command in your terminal:
 
     ```bash
-pip install streamlit json pydantic langchain typing together base64 pillow io
+    pip install streamlit json pydantic langchain typing together base64 pillow io
     ```
 
 **2. Clone the Repository:**
